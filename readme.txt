@@ -4,3 +4,4 @@ Git has a mutable index callead stage.
 Git tracks changes of files.	
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
+Swiched to a new branch 'feature1'
